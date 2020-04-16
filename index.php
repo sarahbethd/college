@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="style.css">
     <title>Computer Science Class Registration</title>
 
+
+    
 <style>
 body {
   background-color: tan;
